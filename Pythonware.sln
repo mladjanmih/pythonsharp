@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythonware", "Pythonware\Pythonware.csproj", "{9A64E343-8C33-4B0F-86C1-24F1C4E630F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythonware.Test.WebApi", "Pythonware.Test.WebApi\Pythonware.Test.WebApi.csproj", "{5C66C860-4F49-4FDD-9046-CC2DCFFCF247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A64E343-8C33-4B0F-86C1-24F1C4E630F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A64E343-8C33-4B0F-86C1-24F1C4E630F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A64E343-8C33-4B0F-86C1-24F1C4E630F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A64E343-8C33-4B0F-86C1-24F1C4E630F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C66C860-4F49-4FDD-9046-CC2DCFFCF247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C66C860-4F49-4FDD-9046-CC2DCFFCF247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C66C860-4F49-4FDD-9046-CC2DCFFCF247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C66C860-4F49-4FDD-9046-CC2DCFFCF247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAB50AE-AD0B-4CE8-A441-1DDA2627D887}
+	EndGlobalSection
+EndGlobal
